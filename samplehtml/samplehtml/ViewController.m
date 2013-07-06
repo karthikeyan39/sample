@@ -33,6 +33,8 @@
     NSLog(@"nine");
     NSLog(@"ten");
     
+    NSLog(@"yogesh");
+    
     NSLog(@"too");
 	// Do any additional setup after loading the view, typically from a nib.
 }
