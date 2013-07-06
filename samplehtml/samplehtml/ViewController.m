@@ -17,9 +17,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-   [mywebview loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle]
-                                                                          pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
-    
+//   [mywebview loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle]
+//                                                                          pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
+    NSLog(@"Test");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
