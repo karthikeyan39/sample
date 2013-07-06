@@ -21,6 +21,7 @@
 //                                                                          pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
     NSLog(@"Test");
     NSLog(@"second");
+    NSLog(@"three");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
