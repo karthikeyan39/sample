@@ -25,6 +25,7 @@
     NSLog(@"fourth");
     NSLog(@"three");
     NSLog(@"fivee");
+    NSLog(@"six");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
