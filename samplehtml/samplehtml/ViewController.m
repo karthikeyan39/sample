@@ -20,6 +20,7 @@
 //   [mywebview loadRequest:[NSURLRequest requestWithURL:[NSURL fileURLWithPath:[[NSBundle mainBundle]
 //                                                                          pathForResource:@"index" ofType:@"html"]isDirectory:NO]]];
     NSLog(@"Test");
+    NSLog(@"second");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
